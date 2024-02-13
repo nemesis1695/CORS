@@ -12,3 +12,7 @@ You can contribute to the improvement and development of this tool. To submit su
 ## License
 
 This project is licensed under the MIT License. For more information, please read the LICENSE file.
+
+Using CORS :
+
+python3 CORS.py http://target.com/
